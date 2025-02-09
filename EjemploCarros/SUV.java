@@ -1,4 +1,6 @@
-public class SUV  extends Carro{
+package EjemploCarros;
+
+public class SUV  extends Carro {
     boolean cuatroRuedas;
 
 

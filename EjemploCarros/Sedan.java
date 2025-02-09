@@ -1,4 +1,6 @@
-public class Sedan extends Carro{
+package EjemploCarros;
+
+public class Sedan extends Carro {
     int Kilometraje;
     public Sedan(String color, int Kilometraje){
         super(color);
